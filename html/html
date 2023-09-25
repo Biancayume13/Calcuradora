@@ -31,7 +31,7 @@
             font-size: 25px;
             cursor: pointer;
             margin: 3px;
-            background-color: rgb(31,31,31);
+            background-color: rgb(31, 31, 31);
             border: 3px;
             color: #fff;
         }
